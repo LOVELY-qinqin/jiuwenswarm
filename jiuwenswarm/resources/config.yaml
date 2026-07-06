@@ -816,8 +816,8 @@ updater:
   enabled: true
   # 桌面端版本检查源类型：gitcode / github
   desktop_release_api_type: "gitcode"
-  repo_owner: openJiuwen
-  repo_name: jiuwenswarm 
+  repo_owner: LOVELY-qinqin
+  repo_name: jiuwenSwarm-test 
   release_api_url: ""
   asset_name_pattern_windows: "JiuwenSwarm-setup-{version}.exe"
   asset_name_pattern_macos: "JiuwenSwarm-{version}.dmg"
